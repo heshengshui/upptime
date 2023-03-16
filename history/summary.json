@@ -33,25 +33,29 @@
     "timeWeek": 953,
     "timeMonth": 993,
     "timeYear": 993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 114,
-    "timeWeek": 316,
-    "timeMonth": 325,
-    "timeYear": 325,
-    "dailyMinutesDown": {}
+    "time": 317,
+    "timeDay": 127,
+    "timeWeek": 294,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "黄金海岸",
@@ -60,7 +64,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 953,
     "timeMonth": 993,
     "timeYear": 993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   }
 ]
