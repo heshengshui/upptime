@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 82,
-    "timeWeek": 95,
-    "timeMonth": 99,
-    "timeYear": 105,
-    "dailyMinutesDown": {}
+    "time": 106,
+    "timeDay": 187,
+    "timeWeek": 120,
+    "timeMonth": 105,
+    "timeYear": 106,
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "追随她的旅程",
@@ -24,7 +26,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -34,6 +36,7 @@
     "timeMonth": 863,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-06-08": 26,
       "2023-06-01": 19,
       "2023-05-22": 16,
@@ -78,7 +81,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -88,6 +91,7 @@
     "timeMonth": 863,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-06-08": 26,
       "2023-06-01": 19,
       "2023-05-22": 16,
